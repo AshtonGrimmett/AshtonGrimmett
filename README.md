@@ -2,7 +2,7 @@
 
 **BSc (Hons) Mathematics** · University of Bath
 
-I'm a second year student at the University of Bath, currently studying Maths. I'm interested in data science and programming to see where this can take me.
+I'm a second year student at the University of Bath, currently studying Maths. I'm interested in IB, M&A and programming to see where this can take me.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AshtonGrimmett&style=flat-square&color=blue)
 
